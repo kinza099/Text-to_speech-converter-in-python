@@ -1,4 +1,4 @@
-# Text-to_speech-converter-in-python
+# Text-to_speech-using-python
 
 The Text-to-Speech Converter is a Python program that allows you to convert text into spoken words using the power of text-to-speech synthesis.
 
